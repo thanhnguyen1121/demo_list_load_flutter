@@ -27,6 +27,9 @@ class PokemonNotifier extends ValueNotifier<List<Pokemon>> {
   thanhnguyen1121
   Anhthanh1102
 
+
+  
+
   https://thanhnguyen1121@github.com/thanhnguyen1121/demo_list_load_flutter.git (push)
 
 
